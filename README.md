@@ -24,9 +24,9 @@ This repository contains C programs for printing various patterns using loops an
     cd pattern-c
     ```
 
-3. **View the Output**: The program will display the pattern in the console.
+3. **View the Output**: The program will display the pattern in the console. 
 
-## Contributing
+## Contributing 
 
 Contributions are welcome! If you have any ideas for new patterns or improvements to existing ones, feel free to open an issue or submit a pull request.
 
